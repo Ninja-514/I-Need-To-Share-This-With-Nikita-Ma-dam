@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+
+.CRIS{
+    width: 100%;
+    font-size: 20px;
+    margin: 0;
+}
+
+#TIANO,#STAPLES,#Number_Of_Objects{
+    font-size: 18px;
+    
+}
+
+.GODSPEED{
+    width: 100%;
+    text-align: center;
+    background-color: darkviolet;
+    color: yellow;
+    position: fixed;
+    bottom: 0;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px green;
+}
